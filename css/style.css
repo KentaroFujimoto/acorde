@@ -99,9 +99,17 @@ header {
     display: block;
   }
 
+  header {
+    height: 1190px;
+  }
+
   .menu-content {
     width: 50px;
     height: 50px;
+  }
+
+  .fade-img img {
+    height: 1100px;
   }
 }
 
